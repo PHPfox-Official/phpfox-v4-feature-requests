@@ -12,13 +12,16 @@ Please be sure to comment in the features here that you want to see improved as 
 
 When submitting a feature improvement, please post the following in order for us to consider it and for it not to be rejected for lack of information:
 
-Do:
+*Do:*
+
 1. Include in the title the name of the feature you want improved and a short description (Example: Video - improve url).
 2. Include in the main text of the issue exactly what one thing needs to improve. ONE thing. Be very descriptive.
 3. If possible, include a screen shot
 4. Only put one feature improvement per issue.
-5. 
-Don't
+
+
+*Don't:*
+
 1. Say "just like this" site (facebook, etc) as we won't know what you want, don't want to have to go visit a place and sign up to see the features and this description is far too vague
 2. Say a one word thing for what you want (I want a link). That's far too vague.
 3. Don't put more than one feature improvement per issue. We will reject any feature improvements with more than one thing as we can only work on one thing per revision number.
