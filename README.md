@@ -27,13 +27,18 @@ When submitting a feature improvement, please post the following in order for us
 3. Don't put more than one feature improvement per issue. We will reject any feature improvements with more than one thing as we can only work on one thing per revision number.
 
 Example of a good one:
+
 Title: PM message submit button
+
 Description: In the PM message system, if we hit Enter, it sends the message. Please make a send or submit button so that hitting Enter does not send the message but it requires us to hit the Send or submit button to send it.
 (screen shot would be here)
 
 Example of a bad one:
+
 Title: Fix this like facebook
+
 Description: I want the feed to be like facebook. Change the photos to look like popular sites. Move the profile over a little. Take the language and put it at top. Make me sign in with my language already done.
+
 Thanks!
 
 Any questions? ask here: https://community.phpfox.com/forum/thread/54178/core-improvement-feature-request-area-open/
