@@ -12,7 +12,7 @@ Please be sure to comment in the features here that you want to see improved as 
 
 When submitting a feature improvement, please post the following in order for us to consider it and for it not to be rejected for lack of information:
 
-*Do:*
+**Do:**
 
 1. Include in the title the name of the feature you want improved and a short description (Example: Video - improve url).
 2. Include in the main text of the issue exactly what one thing needs to improve. ONE thing. Be very descriptive.
@@ -20,7 +20,7 @@ When submitting a feature improvement, please post the following in order for us
 4. Only put one feature improvement per issue.
 
 
-*Don't:*
+**Don't:**
 
 1. Say "just like this" site (facebook, etc) as we won't know what you want, don't want to have to go visit a place and sign up to see the features and this description is far too vague
 2. Say a one word thing for what you want (I want a link). That's far too vague.
@@ -28,14 +28,14 @@ When submitting a feature improvement, please post the following in order for us
 4. Don't post unnecessary comments not related to the feature itself. Requests with any statements derogatory to phpFox will be rejected and closed immediately. 
 5. Don't bash staff or harass staff or clients. 
 
-Example of a good one:
+**Example of a good one:**
 
 Title: PM message submit button
 
 Description: In the PM message system, if we hit Enter, it sends the message. Please make a send or submit button so that hitting Enter does not send the message but it requires us to hit the Send or submit button to send it.
 (screen shot would be here)
 
-Example of a bad one:
+**Example of a bad one:**
 
 Title: Fix this like facebook
 
@@ -43,7 +43,7 @@ Description: I want the feed to be like facebook. Change the photos to look like
 
 Thanks!
 
-We reserve the right to remove, edit or alter any comments or feature requests.
+*We reserve the right to remove, edit or alter any comments or feature requests.*
 
 Any questions? ask here: https://community.phpfox.com/forum/thread/54178/core-improvement-feature-request-area-open/
 
