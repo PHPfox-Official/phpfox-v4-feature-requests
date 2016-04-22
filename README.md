@@ -43,7 +43,7 @@ Description: I want the feed to be like facebook. Change the photos to look like
 
 Thanks!
 
-*We reserve the right to remove, edit or alter any comments or feature requests.*
+*We reserve the right to remove, edit or alter any comments or feature requests or block anyone from posting to our tracker should they voilate these terms.*
 
 Any questions? ask here: https://community.phpfox.com/forum/thread/54178/core-improvement-feature-request-area-open/
 
