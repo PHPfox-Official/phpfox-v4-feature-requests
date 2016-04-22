@@ -25,6 +25,8 @@ When submitting a feature improvement, please post the following in order for us
 1. Say "just like this" site (facebook, etc) as we won't know what you want, don't want to have to go visit a place and sign up to see the features and this description is far too vague
 2. Say a one word thing for what you want (I want a link). That's far too vague.
 3. Don't put more than one feature improvement per issue. We will reject any feature improvements with more than one thing as we can only work on one thing per revision number.
+4. Don't post unnecessary comments not related to the feature itself. Requests with any statements derogatory to phpFox will be rejected and closed immediately. 
+5. Don't bash staff or harass staff or clients. 
 
 Example of a good one:
 
@@ -40,6 +42,8 @@ Title: Fix this like facebook
 Description: I want the feed to be like facebook. Change the photos to look like popular sites. Move the profile over a little. Take the language and put it at top. Make me sign in with my language already done.
 
 Thanks!
+
+We reserve the right to remove, edit or alter any comments or feature requests.
 
 Any questions? ask here: https://community.phpfox.com/forum/thread/54178/core-improvement-feature-request-area-open/
 
