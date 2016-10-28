@@ -48,3 +48,8 @@ Thanks!
 Any questions? ask here: https://community.phpfox.com/forum/thread/54178/core-improvement-feature-request-area-open/
 
 
+** Label meaning **
+
+*Interest*: means we are interested to look when we are looking at features next time. We will then evaluate if it is possible.
+*Accepted*: means that it is an accepted feature for a future update but does not mean it will be in the next update.
+*Accepted and implemented*: means it is already made and shows which version it will be in for the Milestone. 
