@@ -1,6 +1,6 @@
 # phpFox Feature Request
 
-Use this [feature tracker](https://github.com/moxi9/phpfox-feature-requests/issues) to post any features you want to see in phpFox.
+Use this [feature tracker](https://github.com/PHPfox-Official/phpfox-v4-feature-requests/issues) to post any features you want to see in phpFox.
 
 Please keep larger requests here in the community forum area for third party developers to consider making apps and for us to also see in the future should some good requests come in here that third party developers don't make.
 
